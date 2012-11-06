@@ -22,21 +22,49 @@ public final class R {
         public static final int button2=0x7f080002;
         public static final int button3=0x7f080003;
         public static final int button4=0x7f080004;
-        public static final int menu_settings=0x7f080005;
+        public static final int editText1=0x7f080006;
+        public static final int editText2=0x7f080007;
+        public static final int editText3=0x7f080008;
+        public static final int editText4=0x7f080009;
+        public static final int menu_settings=0x7f08000b;
         public static final int textView1=0x7f080000;
+        public static final int textView2=0x7f080005;
+        public static final int textView3=0x7f08000a;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
+        public static final int crie_sua_conta=0x7f030001;
+        public static final int editar_compra=0x7f030002;
+        public static final int editar_produto=0x7f030003;
+        public static final int nova_compra=0x7f030004;
+        public static final int novo_produto=0x7f030005;
     }
     public static final class menu {
         public static final int activity_main=0x7f070000;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
+        public static final int btn_salvar=0x7f040009;
+        /**  crie sua conta 
+         */
+        public static final int crie_sua_conta=0x7f040008;
+        /**  editar compra 
+         */
+        public static final int editar_compra=0x7f04000e;
+        public static final int editar_produto=0x7f040010;
         public static final int facebook=0x7f040006;
         public static final int google=0x7f040007;
         public static final int hello_world=0x7f040001;
         public static final int menu_settings=0x7f040002;
+        /**  nova compra 
+         */
+        public static final int nova_compra=0x7f04000a;
+        public static final int nova_compra_btn_salvar=0x7f04000b;
+        public static final int nova_compra_descricao=0x7f04000c;
+        public static final int nova_compra_nome=0x7f04000d;
+        /**  produto 
+         */
+        public static final int novo_produto=0x7f04000f;
         public static final int puts=0x7f040005;
         /**   login  
          */

@@ -11,4 +11,22 @@
     <string name="puts">"put'S"</string>
     <string name="facebook">Facebook</string>
     <string name="google">Google</string>
+    
+    <!-- crie sua conta -->
+    <string name="crie_sua_conta">Crie sua conta no "put'S"</string>
+    <string name="btn_salvar">Criar "put'S"</string>
+    
+    <!-- nova compra -->
+    <string name="nova_compra">Nova Compra</string>
+    <string name="nova_compra_btn_salvar">Salvar</string>
+    <string name="nova_compra_descricao">Descrição</string>
+    <string name="nova_compra_nome">Nome</string>
+    
+    <!-- editar compra -->
+    <string name="editar_compra">Editar Compra</string>
+    
+    <!-- produto -->
+    <string name="novo_produto">Novo Produto</string>
+    <string name="editar_produto">Editar Produto</string>
+    
 </resources>
